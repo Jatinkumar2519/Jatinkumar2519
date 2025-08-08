@@ -1,5 +1,4 @@
 <!-- Profile Banner -->
-![Banner](https://i.imgur.com/UNJhWl5.png) <!-- Replace with your custom techy/dark banner -->
 
 # Hey there, I'm Jatin Kumar! 👋  
 
