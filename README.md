@@ -2,18 +2,16 @@
 
 # Hey there, I'm Jatin Kumar! 👋  
 
-🚀 **Competitive Programmer** | 💻 **Full-stack Developer** | 📊 **Machine Learning Enthusiast**  
+🚀 **Competitive Programmer** | 📊 **Machine Learning Enthusiast**  
 
 ---
 
 ## 📌 About Me  
 - 🔭 Currently working on **Algorithm Visualizer** & **Advanced DSA solutions**  
-- 🌱 Learning **React.js, Node.js, and scalable backend systems**  
+- 🌱 Learning **React.js, Node.js**  
 - 🏆 Active across **6+ Competitive Programming Platforms**  
 - 🎯 Aim: Crack **Top-tier product-based company**  
-- 💬 Ask me about **DSA, Competitive Programming, Web Development**  
-- 📫 Reach me at: **jatinturk2004@gmail.com**  
-
+- 💬 Ask me about **DSA, Competitive Programming, Ai-Ml**  
 ---
 
 ## 🛠 Tech Stack  
@@ -51,11 +49,6 @@
 ## 📈 GitHub Stats  
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatinkumar2519&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinkumar2519&layout=compact&theme=tokyonight)  
-
----
-
-## 🐍 Contribution Graph Snake  
-![Snake animation](https://github.com/Jatinkumar2519/Jatinkumar2519/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
